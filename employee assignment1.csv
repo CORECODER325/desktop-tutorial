@@ -1,0 +1,16 @@
+EmployyeID,Name,Department,Salary,JoinDate,PerformanceRating
+1,John Smith,HR,50000,2020-03-15,
+3,Alice Lee,Finance,60000,2021-07-01,
+5,Emma Davis,HR,55000,2022-01-25,
+7,Nina Patel,Finance,62000,2017-06-12,
+8,Liam Johnson,HR,52000,2021-03-18,
+10,Emma Wilson,Finance,64000,2019-08-23,
+11,Lucas King,HR,54000,2016-12-10,
+13,Michael Brown,Finance,67000,2020-10-30,
+14,Ella Harris,HR,51000,2023-05-25,
+2,Jane Doe,IT,70000,2019-05-20,5
+4,Bob Brown,IT,75000,2018-11-11,5
+6,Chris Evans,IT,80000,2020-09-05,5
+9,Olivia White,IT,73000,2023-02-14,5
+12,Sophia Taylor,IT,70000,2021-11-08,5
+15,Ethan Miller,IT,77000,2018-04-02,5
